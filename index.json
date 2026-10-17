@@ -1,0 +1,11 @@
+{
+  "org": "colcon",
+  "repo": "colcon-powershell",
+  "versions": [
+    {
+      "commit": "5268900f0e4ef49a07c24f43214f991852442c05",
+      "tag": "0.5.0",
+      "parsed_at": "2026-10-17T23:22:14.234550+00:00"
+    }
+  ]
+}
